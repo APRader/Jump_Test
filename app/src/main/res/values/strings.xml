@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_Blink</string>
+    <string name="title_activity_test__blink">Test Blink</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
